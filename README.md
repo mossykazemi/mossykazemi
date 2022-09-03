@@ -20,8 +20,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/21_Angular-256.png" alt="angular" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="42" height="42"/>
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="Html5" width="40" height="40"/>
-  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="Css3" width="40" height="40"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png" alt="Html5" width="38" height="38"/>
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="Css3" width="38" height="38"/>
  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-256.png" alt="sass" width="40" height="40"/>
  </p>
  
